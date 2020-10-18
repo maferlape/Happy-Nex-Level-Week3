@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} 
+ 
+ 
+ body{
+    height: 100vh;
+    color: white;
+    background: #ebf2f5;
+    
+ }
+/* 62.5% equivale a 10px */
+ :root{
+     font-size: 62.5%;
+ }
+
+body, input, button, textarea{
+    font-size: 1.8rem;
+    font-family: 'Nunito', sans-serif; 
+    font-weight: 400;
+    line-height: 1;
+}
+
+ 
