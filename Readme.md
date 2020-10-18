@@ -23,7 +23,7 @@ Nex Level Week#3</p>
 
 
 ## Proyecto
-Happy es una aplicación que conecta personas a casas hogaresniños desamparados para hacer el día de muchos niños mas felices.
+Happy es una aplicación que conecta personas a casas hogares para hacer el día de muchos niños mas felices.
 
 ## 🚀 Ejecutar el proyecto
 
