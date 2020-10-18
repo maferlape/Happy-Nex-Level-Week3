@@ -11,14 +11,6 @@
 Nex Level Week#3</p>
 
 
-
-<p align="center">
-  <a href="#-proyecto">Proyecto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-ejecutar-el-proyecto">Ejecutar el proyecto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-tecnologías-utilizadas">Tecnologías Utilizadas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licencia">Licencia</a>
-</p>
-
 #
 
 
