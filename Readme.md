@@ -61,7 +61,7 @@ npm start
 * [SQLite](https://www.sqlite.org/index.html)
 * [hbs](https://www.npmjs.com/package/hbs)
 
-##:memo: Licença
+## :memo: Licença
 
 Este proyecto está bajo la Licencia MIT- mira el archivo [LICENSE](LICENSE.md) para detalles
 
